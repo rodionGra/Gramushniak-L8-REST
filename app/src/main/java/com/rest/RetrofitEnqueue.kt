@@ -11,9 +11,9 @@ import java.util.ArrayList
 /**
  * Example of use call.enqueue
  *
- * Using Retrofit to download JSON for the link:
+ * Using Retrofit to download JSON from the link:
  * https://cat-fact.herokuapp.com/facts
- * Convert it to Kotlin Objects by embedding the results in the console.*/
+ * Convert it to Kotlin Objects and display the results on the console.*/
 
 fun main() {
     val retrofit : Retrofit = Retrofit.Builder()

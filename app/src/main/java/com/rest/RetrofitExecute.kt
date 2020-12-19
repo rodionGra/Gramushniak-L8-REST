@@ -8,9 +8,9 @@ import retrofit2.http.GET
 /**
  * Example of use call.execute
  *
- * Using Retrofit to download JSON for the link:
+ * Using Retrofit to download JSON from the link:
  * https://cat-fact.herokuapp.com/facts
- * Convert it to Kotlin Objects by embedding the results in the console.
+ * Convert it to Kotlin Objects end display the results on the console.
  * */
 
 fun main() {
